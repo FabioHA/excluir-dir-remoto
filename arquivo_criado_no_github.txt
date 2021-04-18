@@ -1,0 +1,2 @@
+Esse arquivo foi criado dentro da conta do github. Isso foi feito para simular uma mudança no codigo feita por outra pessoa,diferente de mim, para eu poder usar o comando pull
+e assim entender seu funcionamento. O comando git pull origin nome_do_branch vai puxar(pull) esse arquivo aqui do github para meu computador local
